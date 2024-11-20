@@ -1,7 +1,7 @@
 # HealthNet 🏥
 A Comprehensive Healthcare Management System
 
-
+![SmartAgri Demo](./assets/healthNet.png)
 
 ## Overview
 HealthNet is an innovative healthcare management platform designed to bridge the gap between patients, doctors, and medical institutions. By leveraging modern technology, HealthNet ensures seamless access to healthcare services, efficient appointment scheduling, and better patient-doctor communication. The system is tailored to meet the needs of both urban and rural areas, promoting equitable access to quality healthcare.
@@ -61,7 +61,7 @@ JWT_SECRET=abc123
 npm run client
 ```
 
-## User Side - Backend
+## Server Side - Backend
 ```
 npm run server
 ```
